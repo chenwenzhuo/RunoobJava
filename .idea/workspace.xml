@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a53a18af-135a-4bd9-9a1f-260b32b79bec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hey_there/IO/ReadMultipleChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hey_there/IO/ScannerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hey_there/RegularExpression/CaptureGroup/RegexMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Generics/FibonacciGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Breve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Cappuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/CoffeeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Latte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Override/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Override/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Override/ReturnType_Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Override/ReturnType_Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Override/TestOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/AccessPrivateMembers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/ModifyFinalFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/FatherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/PrintInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/SonClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hey_there/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RunoobJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RunoobJava.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,16 +34,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hey_there/RegularExpression/CaptureGroup/RegexMatches.java">
+        <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/FatherClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/SonClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/PrintInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1585">
+              <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,10 +75,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hey_there/IO/ReadMultipleChars.java">
+        <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+              <folding>
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/AccessPrivateMembers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="66" lean-forward="true" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,10 +108,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hey_there/IO/ScannerDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/ModifyFinalFields.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="322">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,9 +124,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>testClass</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +144,28 @@
         <option value="$PROJECT_DIR$/src/com/hey_there/RegularExpression/CaptureGroup/RegexMatches.java" />
         <option value="$PROJECT_DIR$/src/com/hey_there/IO/ReadMultipleChars.java" />
         <option value="$PROJECT_DIR$/src/com/hey_there/IO/ScannerDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Override/Animal.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Override/TestOverride.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Override/ReturnType_Father.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Override/ReturnType_Son.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Override/Dog.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Latte.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Mocha.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Cappuccino.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Americano.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Breve.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Generator.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/coffee/CoffeeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Generics/FibonacciGen.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Reflect/GetFieldsInfoOfClass/FatherClass.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Reflect/GetFieldsInfoOfClass/SonClass.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/SonClass.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/PrintInfo.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/AccessPrivateMembers.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/ModifyFinalFields.java" />
       </list>
     </option>
   </component>
@@ -115,24 +206,29 @@
               <item name="RunoobJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hey_there" type="462c0819:PsiDirectoryNode" />
-              <item name="IO" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RunoobJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="RunoobJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hey_there" type="462c0819:PsiDirectoryNode" />
-              <item name="CaptureGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="AccessPrivateMethodsAndFields" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -152,23 +248,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScannerDemo">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.hey_there.Main" />
-      <module name="RunoobJava" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadMultipleChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hey_there.IO.ReadMultipleChars" />
+  <component name="RunManager" selected="Application.ModifyFinalFields">
+    <configuration name="AccessPrivateMembers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hey_there.Reflect.AccessPrivateMethodsAndFields.AccessPrivateMembers" />
       <module name="RunoobJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hey_there.IO.*" />
+          <option name="PATTERN" value="com.hey_there.Reflect.AccessPrivateMethodsAndFields.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +262,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegexMatches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hey_there.RegularExpression.CaptureGroup.RegexMatches" />
+    <configuration name="CoffeeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hey_there.Generics.coffee.CoffeeGenerator" />
       <module name="RunoobJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hey_there.RegularExpression.CaptureGroup.*" />
+          <option name="PATTERN" value="com.hey_there.Generics.coffee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +275,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hey_there.IO.ScannerDemo" />
+    <configuration name="FibonacciGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hey_there.Generics.FibonacciGen" />
       <module name="RunoobJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hey_there.IO.*" />
+          <option name="PATTERN" value="com.hey_there.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModifyFinalFields" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hey_there.Reflect.AccessPrivateMethodsAndFields.ModifyFinalFields" />
+      <module name="RunoobJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hey_there.Reflect.AccessPrivateMethodsAndFields.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hey_there.Reflect.GetInfoOfClass.PrintInfo" />
+      <module name="RunoobJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hey_there.Reflect.GetInfoOfClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,16 +315,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.RegexMatches_CaptureGroup" />
-      <item itemvalue="Application.ReadMultipleChars" />
-      <item itemvalue="Application.ScannerDemo" />
+      <item itemvalue="Application.CoffeeGenerator" />
+      <item itemvalue="Application.FibonacciGen" />
+      <item itemvalue="Application.PrintInfo" />
+      <item itemvalue="Application.AccessPrivateMembers" />
+      <item itemvalue="Application.ModifyFinalFields" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerDemo" />
-        <item itemvalue="Application.ReadMultipleChars" />
-        <item itemvalue="Application.RegexMatches_CaptureGroup" />
+        <item itemvalue="Application.ModifyFinalFields" />
+        <item itemvalue="Application.AccessPrivateMembers" />
+        <item itemvalue="Application.PrintInfo" />
+        <item itemvalue="Application.FibonacciGen" />
+        <item itemvalue="Application.CoffeeGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -227,60 +342,53 @@
       <option name="presentableId" value="Default" />
       <updated>1558086291820</updated>
       <workItem from="1558086294132" duration="10354000" />
+      <workItem from="1558164835818" duration="5000" />
+      <workItem from="1558165094059" duration="5852000" />
+      <workItem from="1558181777739" duration="4834000" />
+      <workItem from="1558187407955" duration="8045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10354000" />
+    <option name="totallyTimeSpent" value="29090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21321961" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39696312" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.44251627" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hey_there/RegularExpression/TempClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/RegularExpression/TempClass.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -288,13 +396,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hey_there/RegularExpression/CaptureGroup/RegularExpression/mypkg/daf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/RegularExpression/CaptureGroup/RegularExpression/mypkg/daf.java" />
     <entry file="file://$PROJECT_DIR$/src/com/hey_there/RegularExpression/CaptureGroup/RegexMatches.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -317,8 +419,211 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hey_there/IO/ScannerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Override/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Override/TestOverride.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Override/ReturnType_Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Override/ReturnType_Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/coffee.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Override/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Latte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Cappuccino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Americano.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Breve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/coffee/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/coffee/CoffeeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1378">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1368#1369#0" expanded="true" />
+            <element signature="e#1416#1417#0" expanded="true" />
+            <element signature="e#1459#1460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Generics/FibonacciGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/FatherClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/SonClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/GetInfoOfClass/PrintInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1585">
+          <caret line="103" column="37" selection-start-line="103" selection-start-column="37" selection-end-line="103" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/AccessPrivateMembers.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <caret line="16" column="66" lean-forward="true" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="68" lean-forward="true" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hey_there/Reflect/AccessPrivateMethodsAndFields/ModifyFinalFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
